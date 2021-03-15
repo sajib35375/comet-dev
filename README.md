@@ -1,12 +1,12 @@
-##Comet Multipurpose System
-This is a learning purpose system
+  ##Comet Multipurpose System
+  This is a learning purpose system
 
-<img src="Feature.jpg">
+  <img src="Feature.jpg">
 
-####some feature:
--Home Page - classic
--Contact Us 1 
--About Us 1 with progress bar
--Pricing Page
--Shop page 3 col etc
+  ####Some feature
+  - Home Page - classic
+  - Contact Us 1 
+  - About Us 1 with progress bar
+  - Pricing Page
+  - Shop page 3 col etc
 
