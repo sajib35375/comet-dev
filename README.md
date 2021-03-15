@@ -1,9 +1,9 @@
-  ##Comet Multipurpose System
+## Comet Multipurpose System
   This is a learning purpose system
 
   <img src="Feature.jpg">
 
-  ####Some feature
+## Some feature
   - Home Page - classic
   - Contact Us 1 
   - About Us 1 with progress bar
